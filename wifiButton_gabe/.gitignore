@@ -1,0 +1,10 @@
+.DS_Store
+.holder
+.build/
+.bundle/
+node_modules/
+.sass-cache/
+
+#vim temp files
+*.swp
+*.swo
